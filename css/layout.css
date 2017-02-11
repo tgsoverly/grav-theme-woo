@@ -746,6 +746,11 @@ footer .footer-logo a {
    margin-top: 12px;
    margin-left: 3px;
 }
+
+.hero-text img {
+  max-width: 500px;
+}
+
 footer .footer-logo a img {
    height: auto;
    width: 92px;
